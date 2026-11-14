@@ -13,11 +13,4 @@ Primera versión del portfolio personal, desarrollada en HTML, CSS y JavaScript 
 3. Revisar los enlaces externos y decidir si querés sumar otros trabajos.
 4. Si querés, cambiar la tipografía o los colores en las variables de `style.css`.
 
-## Publicar con GitHub Pages
-1. Subí los tres archivos (`index.html`, `style.css`, `script.js`) a la raíz del repositorio.
-2. En GitHub, entrá en **Settings → Pages**.
-3. En **Build and deployment**, elegí **Deploy from a branch**.
-4. Seleccioná la rama `main` y la carpeta `/(root)`, y guardá.
-5. GitHub va a publicar el sitio en `https://rociofernandezdoval-maker.github.io/portfolio/`.
 
-El sitio no necesita un proceso de compilación ni dependencias.
